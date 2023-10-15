@@ -10,4 +10,7 @@ stopping animation <2min use "x" Key
 
 Tested: latest ESX Legacy!
 
+## Preview
+https://www.youtube.com/watch?v=vf508o_uL4A
+
 Have Fun!!
