@@ -1,7 +1,7 @@
 # esx_smoke
 Simple ESX Cigarette and Lighter Smoking Script
 
-This is m first Script!!
+This is my first Script!!
 
 max 2min smoking Animation
 stopping animation <2min use "x" Key
