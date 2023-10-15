@@ -1,5 +1,8 @@
 # esx_smoke
-Simples ESX Cigarette and Lighter Smoking Script
+Simple ESX Cigarette and Lighter Smoking Script
+
+2min smoking Animation
+stopping animation <2min use "x" Key
 
 ## Install
 1. Upload esx_smoke folder to your esx resource folder
